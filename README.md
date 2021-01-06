@@ -1,5 +1,8 @@
 ### Hi there, I'm Louis Prevosteau 👋
 
+[My LinkedIn](https://www.linkedin.com/in/louis-prevosteau)
+[My Portefolio](https://louis-prevosteau.github.io/)
+
 [![louis-prevosteau's github stats](https://github-readme-stats.vercel.app/api?username=louis-prevosteau&show_icons=true&theme=dark)](https://github.com/louis-prevosteau)
 
 <!--

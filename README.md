@@ -1,6 +1,4 @@
 ### Hi there, I'm Louis Prevosteau 👋
-- 🔭 I’m currently working on BoxOffice
-- 🌱 I’m currently learning ReactJS
 
 [![louis-prevosteau's github stats](https://github-readme-stats.vercel.app/api?username=louis-prevosteau)](https://github.com/louis-prevosteau/github-readme-stats)
 
@@ -9,8 +7,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on BoxOffice
-- 🌱 I’m currently learning ReactJS
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

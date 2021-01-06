@@ -1,6 +1,6 @@
 ### Hi there, I'm Louis Prevosteau 👋
 
-[![louis-prevosteau's github stats](https://github-readme-stats.vercel.app/api?username=louis-prevosteau)](https://github.com/louis-prevosteau/github-readme-stats)
+[![louis-prevosteau's github stats](https://github-readme-stats.vercel.app/api?username=louis-prevosteau&show_icons=true&?theme=dark)](https://github.com/louis-prevosteau)
 
 <!--
 **louis-prevosteau/louis-prevosteau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there, I'm Louis Prevosteau 👋
 
-[My LinkedIn](https://www.linkedin.com/in/louis-prevosteau)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-2666B2?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/louis-prevosteau)](https://www.linkedin.com/in/louis-prevosteau)
 [My Website](https://louis-prevosteau.github.io/)
 
 [![louis-prevosteau's github stats](https://github-readme-stats.vercel.app/api?username=louis-prevosteau&show_icons=true&theme=dark)](https://github.com/louis-prevosteau)
